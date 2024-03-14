@@ -1,6 +1,6 @@
 # OVERVIEW
 
-AutoPixieWps is a script to automate the pixiewps attack>https://github.com/wiire/pixiewps
+AutoPixieWps is a script to automate the pixiewps attack
 for kali linux, and nethunter nexus devices.
 
 Credits goes to Wiire and all who have been working on that project
